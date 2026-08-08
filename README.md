@@ -1,2 +1,2 @@
 # exercicio01
-calculadora de madias
+calculadora de media
